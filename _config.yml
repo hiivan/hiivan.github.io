@@ -1,7 +1,7 @@
 # Setup
-title: ivanOS
-tagline: just another 19-year-old entangled in this whole productivity spiel
-url: https://hiivan.github.io/
+title: Noir
+tagline: a dark mode friendly Jekyll theme
+url: https://noir.essentialenemy.com
 paginate: 1
 baseurl: ""
 permalink: :title/
@@ -37,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Ivan Ang
-  url: https://twitter.com/hiiiivan
-  email: ivanang47@gmail.com
+  name: Victor Johnson
+  url: https://twitter.com/essentialenemy
+  email: me@essentialenemy.com
 
 # Custom vars
 version: 1.3.0

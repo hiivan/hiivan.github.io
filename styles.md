@@ -12,8 +12,8 @@ title: Styles
 This is the font, size, color and spacing of regular ol' paragraph <p> text. Using Markdown makes it dead simple
 to make text *italic*, **bold** or ***bold and italic***.
 
-term
-: *definition*
+OS
+: *operating system*
 
 If you want to reference a footnote it appears like this[^1] in a sentence.
 
@@ -62,7 +62,7 @@ Don't forget:
 To Do:
 - [x] Update Homebrew
 - [ ] Update all of your gem dependencies
-- [x] Drag your feet on updating gem dependencies 
+- [x] Drag your feet on updating gem dependencies
 
 Here are the message boxes with the optional close button enabled:
 
@@ -90,7 +90,7 @@ test 4, 6   =>  4,6,10
 test 3, 4, 6   =>  3,4,6
 {% endhighlight %}
 
- 
+
 
 ***
 

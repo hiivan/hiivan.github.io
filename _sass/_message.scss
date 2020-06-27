@@ -22,6 +22,21 @@
   }
 }
 
+.magicbox {
+  margin-bottom: 15px;
+  padding: 12px;
+  color: #fff;
+  background-color: $message-blue;
+  border-left: .3rem solid #2bc2ff;
+  border-radius: 10px;
+
+  @media (prefers-color-scheme: dark) {
+    color: #fff;
+    background-color: #673AB7;
+    border-left: .3rem solid #9575CD;
+  }
+}
+
 .green {
   margin-bottom: 15px;
   padding: 12px;
@@ -70,7 +85,9 @@
   background-color: $message-blue;
   border-left: .3rem solid #2bc2ff;
   border-radius: 10px;
+  }
 }
+
 
 /* The close button */
 .closebtn {

@@ -38,7 +38,7 @@ So do tables:
 
 Here are the buttons whose class names and colors can be easily customized:
 
-<span class="added">added</span> This span class is named "added" but you can change it.
+<span class="new">new</span> This span class is named "added" but you can change it.
 
 <span class="removed">removed</span> This span class is named "removed" but you can change it.
 

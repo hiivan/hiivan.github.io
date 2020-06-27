@@ -14,7 +14,7 @@
   background-color: #454545;
   border-left: .3rem solid #bebebe;
 
-  
+
 @media (prefers-color-scheme: dark) {
   color: #fff;
   background-color: #282828;
@@ -68,6 +68,7 @@
   color: #fff;
   background-color: $message-blue;
   border-left: .3rem solid #2bc2ff;
+  border-radius: 10px;
 }
 
 /* The close button */

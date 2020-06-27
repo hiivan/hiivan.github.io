@@ -66,7 +66,7 @@ To Do:
 
 Here are the message boxes with the optional close button enabled:
 
-<p class="message"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Message:</b> This is a sentence inside of a message box.</small></p>
+<p class="message"><small><b>Message:</b> This is a sentence inside of a message box.</small></p>
 <p class="green"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Success!</b> This is a sentence inside of a message box.</small></p>
 <p class="yellow"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Caution!</b> This is a sentence inside of a message box.</small></p>
 <p class="orange"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Warning!</b> This is a sentence inside of a message box.</small></p>

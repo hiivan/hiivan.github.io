@@ -11,8 +11,18 @@ layout: compress
 
     <style>
       ::selection {
-      background: #F2E39B;
-      border-radius: 10px;
+          background: #F2E39B;
+          opacity: 0.8;
+      }
+
+      ::-moz-selection {
+          background: #F2E39B;
+          opacity: 0.8;
+      }
+
+      ::-webkit-selection {
+          background: #F2E39B;
+          opacity: 0.8;
     </style>
 
     <div class="container content">
@@ -27,11 +37,12 @@ layout: compress
 		<div class="navigation">
 		<ul id="navigation-list">
 		<li><a href="/archive/">archive</a></li>
-		<li><a href="/tags/">tags</a></li>
-		<li><a href="/styles/">styles</a></li>
+    <li><a href="/tags/">tags</a></li>
+    <li><a href="/categories/">categories</a></li>
     <li><a href="/about/">about</a></li>
 		</ul>
-		</div>
+
+  	</div>
 
       </header>
 

@@ -3,7 +3,7 @@ title: ivanOS
 tagline: just another 19-year-old entangled in this whole productivity spiel
 url: https://hiivan.github.io/
 paginate: 1
-baseurl: "https://hiivan.github.io/"
+baseurl: ""
 permalink: :title/
 
 kramdown:
@@ -32,12 +32,12 @@ sass:
 
 # Options
 
-#Google Analytics tracking
+# Google Analytics tracking
 ga_analytics: UA-171125265-1
 
 # Specify the author for blog posts
-author: Ivan
-  name:
+author:
+  name: Ivan Ang
   url: https://twitter.com/hiiiivan
   email: ivanang47@gmail.com
 

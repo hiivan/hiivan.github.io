@@ -41,6 +41,11 @@ author:
   url: https://twitter.com/hiiiivan
   email: ivanang47@gmail.com
 
+#Twitter cards
+twitter:
+  username: hiiiivan
+  card: summary
+
 # Custom vars
 version: 1.3.0
 github:

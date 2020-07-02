@@ -1,0 +1,33 @@
+.social-media-list {
+    list-style: none;
+}
+.social-media-list li {
+    display: inline-block;
+    margin-right: 1em;
+    font-size: 180%;
+    vertical-align: middle;
+}
+.social-media-list li a {
+    color: #888;
+    transition: color 0.5s;
+}
+
+:root                   {--icon-size: 30px;}
+
+ion-icon.logo-twitter          {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.logo-facebook         {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.logo-instagram        {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.logo-youtube          {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.logo-github           {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.logo-linkedin         {color:darkgrey; font-size: var(--icon-size)}
+ion-icon.book                  {color:darkgrey; font-size: 28px}
+ion-icon.mail                  {color:darkgrey; font-size: var(--icon-size)}
+
+ion-icon.logo-twitter:hover    {color:#00B6F1;}
+ion-icon.logo-facebook:hover   {color:#3B5998;}
+ion-icon.logo-instagram:hover  {color:#2C6A93;}
+ion-icon.logo-youtube:hover    {color:#C31A1E;}
+ion-icon.logo-github:hover     {color:#7E57C2;}
+ion-icon.logo-linkedin:hover   {color:#04669A;}
+ion-icon.book:hover            {color:#75420E;}
+ion-icon.mail:hover            {color:#fc4d50;}

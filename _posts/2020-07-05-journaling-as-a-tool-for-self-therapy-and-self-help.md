@@ -59,7 +59,7 @@ Keep asking and answering yourself. This is the best way to get to the root of t
   Perhaps. I shouldn't let perfectionism rule my life. This "personal identity" may be too unrealistic of an expectation I am placing on myself. I should not beat myself up too much for being "unproductive", sometimes it is okay to not feel like doing anything at all. I must be more forgiving to myself.
 </p>
 
-In this example, the advice to self would be to not set too unrealistic expectations of yourself, as doing so will only set yourself up for failure and disappointment. Be kind to yourself.
+In this example, the advice to self would be to not set too unrealistic expectations for yourself, as doing so will only set yourself up for failure and disappointment. Be kind to yourself.
 
 ### Conclusion
 

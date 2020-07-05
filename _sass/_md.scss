@@ -1,0 +1,19 @@
+.img {
+  border-radius: 20px;
+
+@media (prefers-color-scheme: dark) {
+    filter: grayscale(50%);
+  }
+}
+
+
+.example {
+  background-color: #DEF4FB;
+  border-radius: 10px;
+  opacity: 95%;
+  font-style: italic;
+  font-size: 0.95em;
+}
+/*margin-left: 25px;
+  margin-right: 25px;
+  font-size: 0.9em;*/

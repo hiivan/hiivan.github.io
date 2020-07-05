@@ -94,12 +94,25 @@ figure {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: grey;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 400;
 
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
+}
+
+.word-count {
+  display: block;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  color: DarkGrey;
+  font-size: 19px;
+  font-weight: 400;
+
+@media (prefers-color-scheme: dark) {
+    color: $body-color-dark;
+    }
 }
 
 .permalink {

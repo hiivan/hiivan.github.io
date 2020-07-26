@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journaling as a tool for self-therapy and self-help.
+title: Journaling as a tool for self-therapy.
 date: 2020-07-05
 categories: Posts📌
 tags: [self-help]

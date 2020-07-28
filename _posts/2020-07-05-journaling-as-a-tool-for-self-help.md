@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Journaling as a tool for self-therapy.
+title: Journaling as a tool for self-help.
 date: 2020-07-05
 categories: Posts📌
-tags: [self-help]
+tags: [journaling]
 last_modified_at:
 ---
 
@@ -13,7 +13,7 @@ For self-help to actually work, you have to find the ones that *work for you*.
 
 A classic example: A common productivity advice would be to wake up at 5 am daily (or some other arbitrary timing). However, this advice may only be useful for early birds, and not necessarily apply to the rest of us. In fact, studies have shown that some people are just biologically more alert in the morning, while others are more of night owl-ers[^1].
 
-Personally, journaling my thoughts has helped me in generating advice that work for me. In a sense, it has become my *self-help generator*. This is especially helpful when I am feeling especially stuck and confused.
+Personally, journaling my thoughts has helped me in generating advice that actually works for me. In a sense, it has become my *self-help generator*. This is especially helpful when I am feeling especially stuck and confused.
 
 If you have attended therapy sessions before, you might have heard of Cognitive Behavioral Therapy (CBT). Essentially, it is a form of psychotherapy treatment used to identify and change negative thought patterns that have an influence on your emotions and behavior.
 

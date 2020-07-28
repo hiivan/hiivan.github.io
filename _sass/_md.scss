@@ -1,13 +1,23 @@
 .img {
   border-radius: 20px;
   box-shadow: 0 4px 30px rgba(0,0,0,.4);
+  @media (prefers-color-scheme: dark) {
+      box-shadow: none;
+  }
 }
 
-/*@media (prefers-color-scheme: dark) {
-    filter: grayscale(35%);
+.dark-mode-opacity {
+  @media (prefers-color-scheme: dark) {
+      opacity: 0.9;
   }
-} */
+}
 
+.dark-mode-invert{
+  @media (prefers-color-scheme: dark) {
+    filter: invert(1);
+  }
+}
+/*filter: grayscale(50%);*/
 /* margin-left: 25px;
   margin-right: 25px;
 */
@@ -19,8 +29,83 @@
   opacity: 95%;
   font-style: italic;
   font-size: 90%;
-
 @media (prefers-color-scheme: dark) {
     background-color: #7E57C2;
   }
+}
+
+.definition {
+  background-color: #E3E3E3;
+  background-clip: padding-box;
+  padding: 15px;
+@media (prefers-color-scheme: dark) {
+    background-color: #353535;
+  }
+}
+
+.orange {
+  background: $message-orange;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
+}
+.yellow {
+  background: $message-yellow;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
+}
+.red {
+  background: $message-red;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
+}
+.purple {
+  background: $message-purple;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
+}
+.blue {
+  background: $message-blue;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
+}
+.green {
+  background: $message-green;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 10px;
+  margin-top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 3px 7px;
+  margin: 0 3px 3px 0;
 }

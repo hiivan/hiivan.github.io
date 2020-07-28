@@ -4,6 +4,7 @@ title: About
 ---
 
 <p class="magicbox">
-  I'm Ivan, a 19-years-old guy interested in technology, writing and the art of decision-making️. This is my <b>digital garden</b>.
-  <br>You can toggle dark mode for this website by changing your system's mode.
+  I'm Ivan, a 19-year-old interested in technology, creativity and the art of decision-making️. This is my <b>digital garden</b>.
+  <br>
+  <br><i>Note: You can toggle 🌘<u><b>dark mode</b></u> for this website by changing your system's display preferences. Enjoy 😋🎈.</i>
 </p>

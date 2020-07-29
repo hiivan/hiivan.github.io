@@ -38,6 +38,7 @@ h2 {
 
 h3 {
   margin-top: 1.3rem;
+  margin-bottom: 0.5rem;
   font-size: 1.15rem;
 }
 
@@ -103,11 +104,11 @@ span.link-arrow {
 
 blockquote {
   width: 100%;
-  padding:.25em 90px .25em 25px;
-  margin: 30px auto;
+  padding:.25em 25px .25em 20px;
+  margin: 25px auto;
   font-style: italic;
   position: relative;
-  opacity: .7;
+  opacity: .75;
   border-left: 3px solid #d4d4d4;
 
   @media (prefers-color-scheme: dark) {

@@ -4,20 +4,22 @@ layout: default
 
 <article class="page">
   <h1 class="page-title">{{ page.title | smartify }}</h1>
+
   <word class="word-count">
     {% capture words %}
-      {{ page.content | number_of_words | minus: 150 }}
+      {{ page.content | strip_html | number_of_words | minus: 150 }}
     {% endcapture %}
     {% unless words contains "-" %}
       {{ words | plus: 150 | append: " words," }}
     {% endunless %}
 
     {% capture words %}
-    {{ page.content | number_of_words | minus: 150 }}
-  {% endcapture %}
-  {% unless words contains "-" %}
-    {{ words | plus: 150 | divided_by: 180 | append: " minutes read" }}
-  {% endunless %}
+      {{ page.content | number_of_words | minus: 150 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+      {{ words | plus: 150 | divided_by: 180 | append: " min read" }}
+      {% endunless %}
   </word>
+
   {{ content | smartify }}
 </article>

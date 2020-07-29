@@ -1,23 +1,23 @@
 ---
 layout: post
-title: A Beginner's Guide to Note-Taking for Your Life.
+title: A Beginner's Guide to Note-Taking (for your Life).
 date: 2020-07-29
 categories: Posts📌
 tags: [note-taking]
 last_modified_at:
 ---
 
-All my life, I face with the frustration of a short-term memory. I would easily forget things I have just read or learnt two minutes ago. Most of what I consume do not stay permanent in my memory. That is the fleetingness of life.
+Note-taking has become a huge part of my life. It has helped me retain information better, and ensures that I am constantly learning everyday.
 
-Today, note-taking is a huge part of my life. It has helped me retain information better, and ensures that I am constantly learning everyday. Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes journaling [though also highly applicable to note-taking in general] in this tweet:
+Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes journaling [though also highly applicable to note-taking in general] in this twitter thread:
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none"><p lang="en" dir="ltr">So in a way journaling for yourself is a radical act! It’s an act of self-ownership, self-education. It’s about setting your own curriculum, defining your own worldview, deciding for yourself what is important. I don’t think this should be outsourced to others, but that’s my POV</p>&mdash; youtube.com/visakanv (❤️ if you subscribe!) (@visakanv) <a href="https://twitter.com/visakanv/status/1087436197410959361?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I recommend you take a look at the entire [twitter thread](https://twitter.com/visakanv/status/1087427752498614272), to explain how powerful note-taking for your life can be.
-
 ## Why I Take Notes.
 
-Oftentimes, when people think of taking notes, they associate it to studying for an exam. But the fact is, we are constantly learning new things everyday. So if you are all about living life to the fullest and improving yourself as a person, then why would you not transfer this concept of note-taking to your own personal life?
+Oftentimes, when people think of taking notes, they associate it to *studying for an exam*.
+
+But the fact is, we are constantly learning new things everyday. So if you are all about living life to the fullest and improving yourself as a person, then why would you not transfer this concept of note-taking to your own personal life?
 
 One of the best thing *writing* things down can do for you is to __sharpen your thinking__. Sitting down and putting the work to synthesizing your thoughts can help to produce better quality ideas. If I find myself having an abstract thought in my head that it is hard to express in words, penning them down can help to solidify and refine the idea.
 
@@ -25,7 +25,9 @@ In the rest of the article, I will be going through my note-taking journey, and 
 
 ## Active Recall and Spaced Repetition
 
-When I was a student in junior college studying for 'A' Levels, the content we were learning were becoming more and more complex. So I started searching up study techniques to optimize my learning. I came across [Ali Abdaal's YouTube videos](https://youtu.be/ukLnPbIffxE) on _Active Recall_ and _Spaced Repetition_, and these techniques stuck with me till this day. These were legitimate, scientifically backed<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> advice, in contrast to the plethora of "Top 101 Study Tips" listicles online that sounds good but doesn't work.
+When I was a student in junior college studying for 'A' Levels, the content we were learning were becoming more and more complex. So I started searching up study techniques to optimize my learning.
+
+I came across [Ali Abdaal's YouTube videos](https://youtu.be/ukLnPbIffxE) on _Active Recall_ and _Spaced Repetition_, and these techniques stuck with me till this day. These were legitimate, scientifically backed<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> advice, in contrast to the plethora of "*Top 101 Study Tips*" listicles online that sounds good but doesn't work.
 
 (Spoiler alert: Active Recall trumps other study techniques like rereading, highlighting and blindly writing notes, in terms of examination performance.)
 
@@ -47,9 +49,9 @@ On the never-ending quest for maximum productivity, I chanced upon an [article b
 
 > Without a little extra care to preserve these valuable resources, our precious knowledge remains siloed and scattered across dozens of different locations.
 
-Mind = Blown 🤯. This perpetual problem that has bothered my mind for ages, perfectly articulated right here.
+Mind = Blown 🤯. This perpetual problem that has always bothered my mind (but could never find the words for it) was perfectly articulated by this excerpt.
 
-The article then introduced a solution: [Building A Second Brain](https://www.buildingasecondbrain.com/). BASB is a methodology for "preserving your ideas, and turning them into reality".
+The article then introduced a solution: [Building A Second Brain](https://www.buildingasecondbrain.com/). BASB is a methodology for "preserving your ideas, and turning them into reality". The article explains it like this:
 
 >We are constantly generating ideas. Yet, without a little extra care to preserve these valuable resources, our precious knowledge remains siloed and scattered across dozens of different locations.
 >
@@ -57,57 +59,68 @@ The article then introduced a solution: [Building A Second Brain](https://www.bu
 
 Information overload is a plague of today's society. Building a digital system where you can deposit all your thoughts and learnings there is quintessential for knowledge workers in this day and age.
 
-A similar concept would be having a [Personal Knowledge System](https://en.wikipedia.org/wiki/Personal_knowledge_management). PKM involves the bottom-up approach of “collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities”<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>.
+Another similar concept is the [Personal Knowledge System](https://en.wikipedia.org/wiki/Personal_knowledge_management). PKM involves the bottom-up approach of *collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities*<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>.
 
 ## Note-Taking App: Roam Research
 
-_(This segment talks about my favourite note-taking app, Roam Research. If you already have a good note-taking app that you use and don't wish to know more about Roam, you may [skip to the next segment] of the article.)_
+<i>(This segment talks about my favourite note-taking app, Roam Research. If you already have a good note-taking app you use and and wish to the next segment of the article, click <a href="#next_section">here</a>.)</i>
 
 In search for an appropriate medium for BASB, I discovered [Roam Research](https://roamresearch.com/). I have been using it ever since and have never looked back.
 
 <picture>
   <img src="/assets/roam-showcase.png" height="100%" width="100%" class="dark-mode-opacity">
   <figure>
-    <figcaption><b>Source:</b> <a href="https://roamresearch.com/">Roam Research</a> official site.</figcaption>
+    <figcaption><b>Source:</b> <a href="https://roamresearch.com/">Roam Research</a>'s official site.</figcaption>
   </figure>
 </picture>
-### What makes Roam different from the rest of the other note-taking apps?
+### What makes Roam different from the other note-taking apps?
 
-Note-taking apps typically function hierarchically. You create categories, and within each categories are sub-categories and within them contain notes. The problem with this is that we face the issue of deciding where to put these notes under, since they can belong to multiple categories.
+Note-taking apps typically function **hierarchically**.
 
-Roam Research is a note-taking application for networked thought. It seeks to make note-taking function more like how a brain processes information. Whenever you have an idea, your brain will create multiple associations to it. Thinking of linked concepts will help you recall that idea.
+You create categories, and within each categories are sub-categories and within them contain notes. The problem with this is that we face the issue of deciding where to put these notes under, since they can belong to multiple categories.
 
-Likewise, Roam seeks to associate notes with other notes via **bi-directional linking**, making it easier to connect your ideas. It becomes your second brain. Your notes do not just sit there idly like other note apps. Roam encourages serendipity and *Spaced Repetition* by letting you to continuously revisit past notes.
+Roam Research is a note-taking application for **networked thought**.
 
-For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github.)
+It seeks to make note-taking function more like how a brain processes information. Whenever you have an idea, your brain will create multiple associations to it. Thinking of linked concepts will help you recall that idea.
+
+Likewise, Roam seeks to associate notes with other notes via *bi-directional linking*, making it easier to connect your ideas. It becomes your second brain. Your notes do not just sit there idly like other note apps. Roam encourages serendipity and *Spaced Repetition* by letting you to continuously revisit past notes.
+
+For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github).
 
 ### Pricing
 
-The bummer is that after their 31-days free trial, they start with a whopping $15/month and $7.50/month for students afterwards. It is a really steep price. I was lucky enough to have been part of their beta program so my graph is free indefinitely 😁. If you are not willing to spend that much money on it, I recommend looking into other [Roam alternatives](https://nesslabs.com/roam-research-alternatives) like [Obsidian](https://obsidian.md/) and [TiddlyStroll](https://giffmex.org/experiments/stroll.experiment.html).
+The bummer is that after their 31-days free trial, they start with a whopping $15/month and $7.50/month for students afterwards. If you are not willing to spend that much money on it, I recommend looking into other [Roam alternatives](https://nesslabs.com/roam-research-alternatives) like [Obsidian](https://obsidian.md/) and [TiddlyStroll](https://giffmex.org/experiments/stroll.experiment.html).
+
+(I was lucky enough to have been part of their beta program so my graph is free indefinitely 😁.)
 
 If you are interested to know more about how Roam Research works, you can also check out [Ali Abdaal's video on Roam](https://www.youtube.com/watch?v=bpikCLhpIRY).
 
+<a id="next_section"></a>
 ## How I Take Notes.
 
 Personal Knowledge System/Building A Second Brain or whatever you want to call it, below are the multiple facets of how I take my notes. See and pick what works for you.
 
 ### 📸Quick Capture
 
-Our brains are constantly coming up with new ideas. Sometimes, this can get very distracting and take away from what we are currently focusing on. A way I have come up to curb that is that whenever I come up with a new idea or inspiration, I will immediately capture them down on my notes app (commonly known as _Quick Capture_).
+Our brains are constantly coming up with new ideas. Sometimes, this can get very distracting and take away from what we are currently focusing on.
 
-I keep quotes, reading highlights, podcast insights and everything you can think of. I find this very liberating as it helps to take the load off my brain so I can focus what is important presently. Then, at the end of the day, I can go back to review whatever I have written the entire day, and decide whether I will add them to the list of stuff to work on.
+A way I have come up to curb this problem is that whenever I come up with a new idea or inspiration, I will immediately **capture them** down on Roam.
+
+I keep quotes, reading highlights, podcast insights and everything you can think of. I find this very liberating as it helps to take the load off my brain so I can focus what is important presently.
+
+Then, at the end of the day, I can go back to review whatever I have written the entire day, and decide whether I will add them to the list of stuff to work on.
 
 ### 📚Book/Podcast/Article Notes
 
 This is the most obvious kind of note-taking: writing notes on stuff you read.
 
-Whenever I read, or other content I consume online e.g. podcasts, articles, I try my best to paraphrase and summarize every book. Especially when coming across a foreign concept that I wish to learn more on, I find that this is the best way to actively engage and retain information I have gained from my readings.
+Whenever I read, or other content I consume online e.g. podcasts, articles, I try my best to paraphrase and summarize every book. Especially when coming across a foreign concept that I wish to learn more on, I find it best to actively engage with the material for better learning.
 
-Take note (pun intended): When taking notes, paraphrase and try not to refer back to the material at hand. This is the essence behind _Active Recall_.
+Take note *(pun intended)*: When taking notes, paraphrase and try not to refer back to the material at hand. This is the essence behind _Active Recall_.
 
 ### ⚖️Quantifying My Productivity
 
-I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% everyday for one year, you will end up 380% better than where you started off a year ago. I first read this from the author of [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits), James Clear.
+I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% everyday for one year, you will end up 380% better than where you started off a year ago. I first read this from James Clear, the author of the best-selling book, [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits).
 
 <picture>
   <img src="/assets/marginal-gains.jpg" height="85%" width="85%" class="img dark-mode-opacity">
@@ -117,11 +130,13 @@ I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% ever
   </figure>
 </picture>
 
-Of course, in reality, the metric to quantify your productivity is little bit more unclear, and you might not exactly be 3.8x better. But the 1% Rule proves how powerful compound interest can be and how it can do wonders to your life.
+Of course, in reality, the metric to quantify your productivity is slightly more unclear, and you might not exactly be 3.8x better. But the 1% Rule proves how powerful compound interest can be and how it can do wonders to your life.
 
-I follow a simple system of quantifying my output to track my productivity. I have a section called <span class="green-button">⏳Timeline of My Life</span>, where I record down notable things that I have learnt or done today or when I achieved a certain milestone in my life.
+I follow a simple system of quantifying my output to track my productivity. I have a section called <span class="green-button">⏳Timeline of My Life</span>. In there, I record down the notable things that I have learnt or accomplished that day, or when I have reached a certain milestone in my life.
 
-This is especially useful if you wish to do weekly reviews on your personal development. Looking at all your past notes can give you a birds-eye view of what you have accomplished the entire week. By reviewing, you are also applying *Spaced Repetition* to your learning. On an unrelated note, occasionally looking back at the mini-achievements you have done can do wonders to your motivation and self-esteem :P.
+This is especially useful if you wish to do **weekly reviews** on your personal development.
+
+Looking at all your past notes can give you a birds-eye view of what you have accomplished the entire week. By reviewing, you are applying *Spaced Repetition* to your learning. Occasionally looking back at the mini-achievements you have done can also do wonders to your motivation and self-esteem :P.
 
 I am considering using a software tool like [Airtable](https://airtable.com/) in the future to relegate this mini-project to. Maybe one day, I will reach the level of [julian.digital](https://julian.digital/2020/02/23/my-quantified-self-setup/).
 
@@ -140,12 +155,14 @@ So this is a brief overview of the theories behind how I do my note-taking. I ho
   </figure>
 </picture>
 
-If you were to try something like BASB, give time for your ideas to gain momentum before they snowball into an *entire network of thought*. Soon enough, all your high-value ideas will be right at your fingertips, ready to be recalled from your secondary brain at any time!
+If you were to try something like BASB or PKM, give time for your ideas to gain momentum before they snowball into an *entire network of thought*.
+
+Soon enough, all your high-value ideas will be right at your fingertips, ready to be recalled from your secondary brain at any time!
 
 **Additional resources:**
 
-- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide)
 - Article: [The Zettelkasten Method](https://zettelkasten.de/posts/overview/)
+- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide)
 - Book: [How to Take Smart Notes by Sönke Ahrens](https://www.goodreads.com/id/book/show/34507927-how-to-take-smart-notes)
 - Tool for Active Recall & Spaced Repetition: [Anki Flashcards](https://apps.ankiweb.net/)
 

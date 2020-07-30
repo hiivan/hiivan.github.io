@@ -9,9 +9,9 @@ last_modified_at:
 
 Note-taking has become a huge part of my life. It has helped me retain information better, and ensures that I am constantly learning everyday.
 
-Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes journaling [though also highly applicable to note-taking in general] in this twitter thread:
+Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes journaling (though also highly applicable to note-taking in general) in this twitter thread:
 
-<blockquote class="twitter-tweet tw-align-center" data-conversation="none"><p lang="en" dir="ltr">So in a way journaling for yourself is a radical act! It’s an act of self-ownership, self-education. It’s about setting your own curriculum, defining your own worldview, deciding for yourself what is important. I don’t think this should be outsourced to others, but that’s my POV</p>&mdash; youtube.com/visakanv (❤️ if you subscribe!) (@visakanv) <a href="https://twitter.com/visakanv/status/1087436197410959361?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">So in a way journaling for yourself is a radical act! It’s an act of self-ownership, self-education. It’s about setting your own curriculum, defining your own worldview, deciding for yourself what is important. I don’t think this should be outsourced to others, but that’s my POV</p>&mdash; youtube.com/visakanv (❤️ if you subscribe!) (@visakanv) <a href="https://twitter.com/visakanv/status/1087436197410959361?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Why I Take Notes.
 
@@ -41,7 +41,7 @@ If you ever want to learn something effectively, it is key to utilize both techn
 
 ## Second Brain
 
-On the never-ending quest for maximum productivity, I chanced upon an [article by Forte Labs](https://fortelabs.co/blog/basboverview/) that explained this conundrum I always had in my head:
+On the never-ending quest for maximum productivity, I chanced upon an [article by Forte Labs](https://fortelabs.co/blog/basboverview/) that explained this conundrum I had in my head:
 
 >How many brilliant ideas have you had and forgotten? How many insights have you failed to take action on? How much useful advice have you slowly forgotten as the years have passed?
 >
@@ -59,11 +59,11 @@ The article then introduced a solution: [Building A Second Brain](https://www.bu
 
 Information overload is a plague of today's society. Building a digital system where you can deposit all your thoughts and learnings there is quintessential for knowledge workers in this day and age.
 
-Another similar concept is the [Personal Knowledge System](https://en.wikipedia.org/wiki/Personal_knowledge_management). PKM involves the bottom-up approach of *collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities*<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>.
+Another similar concept is the [Personal Knowledge System](https://en.wikipedia.org/wiki/Personal_knowledge_management). PKM involves the bottom-up approach of *collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities.*<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>
 
 ## Note-Taking App: Roam Research
 
-<i>(This segment talks about my favourite note-taking app, Roam Research. If you already have a good note-taking app you use and and wish to the next segment of the article, click <a href="#next_section">here</a>.)</i>
+<i>(This segment talks about my favourite note-taking app, Roam Research. If you wish to skip to the next segment of the article, click <a href="#how_i_take_notes">here.</a>)</i>
 
 In search for an appropriate medium for BASB, I discovered [Roam Research](https://roamresearch.com/). I have been using it ever since and have never looked back.
 
@@ -95,7 +95,7 @@ The bummer is that after their 31-days free trial, they start with a whopping $1
 
 If you are interested to know more about how Roam Research works, you can also check out [Ali Abdaal's video on Roam](https://www.youtube.com/watch?v=bpikCLhpIRY).
 
-<a id="next_section"></a>
+<a id="how_i_take_notes"></a>
 ## How I Take Notes.
 
 Personal Knowledge System/Building A Second Brain or whatever you want to call it, below are the multiple facets of how I take my notes. See and pick what works for you.
@@ -132,7 +132,7 @@ I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% ever
 
 Of course, in reality, the metric to quantify your productivity is slightly more unclear, and you might not exactly be 3.8x better. But the 1% Rule proves how powerful compound interest can be and how it can do wonders to your life.
 
-I follow a simple system of quantifying my output to track my productivity. I have a section called <span class="green-button">⏳Timeline of My Life</span>. In there, I record down the notable things that I have learnt or accomplished that day, or when I have reached a certain milestone in my life.
+I follow a simple system of quantifying my output to track my productivity. I have a section called <span class="green-padding">⏳Timeline of My Life</span>. In there, I record down the notable things that I have learnt or accomplished that day, or when I have reached a certain milestone in my life.
 
 This is especially useful if you wish to do **weekly reviews** on your personal development.
 
@@ -161,10 +161,10 @@ Soon enough, all your high-value ideas will be right at your fingertips, ready t
 
 **Additional resources:**
 
-- Article: [The Zettelkasten Method](https://zettelkasten.de/posts/overview/)
-- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide)
-- Book: [How to Take Smart Notes by Sönke Ahrens](https://www.goodreads.com/id/book/show/34507927-how-to-take-smart-notes)
-- Tool for Active Recall & Spaced Repetition: [Anki Flashcards](https://apps.ankiweb.net/)
+- Article: [The Zettelkasten Method](https://zettelkasten.de/posts/overview/){:target="_blank"}
+- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide){:target="_blank"}
+- Book: [How to Take Smart Notes by Sönke Ahrens](https://www.goodreads.com/id/book/show/34507927-how-to-take-smart-notes){:target="_blank"}
+- Tool for Active Recall & Spaced Repetition: [Anki Flashcards](https://apps.ankiweb.net/){:target="_blank"}
 
 <div class="footnotes"> <ol>
 	<li id="fn:1"> <p>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques. <em>Psychological Science in the Public Interest,</em> <em>14</em>(1), 4-58. doi:10.1177/1529100612453266 <a href="#fnref:1" class="reversefootnote">⤴</a></p> </li>

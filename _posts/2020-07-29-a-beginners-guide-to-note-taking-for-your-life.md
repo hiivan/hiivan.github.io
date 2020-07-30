@@ -142,7 +142,7 @@ I am considering using a software tool like [Airtable](https://airtable.com/) in
 
 ### 📝Journaling
 
-As mentioned in my article on journaling, I also use Roam as a tool for writing down my thoughts and reflections. You can read the article [here](https://www.ivan-ang.com/journaling-as-a-tool-for-self-help), where I talk more about how I use it to manage my emotional and mental health.
+As mentioned in my article on journaling, I also use Roam as a tool for writing down my thoughts and reflections. You can read the article [here]({% post_url 2020-07-05-journaling-as-a-tool-for-self-help %}), where I talk more about how I use it to manage my emotional and mental health.
 
 ## Conclusion
 

@@ -120,7 +120,7 @@ Take note *(pun intended)*: When taking notes, paraphrase and try not to refer b
 
 ### ⚖️Quantifying My Productivity
 
-I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% everyday for one year, you will end up 380% better than where you started off a year ago. I first read this from James Clear, the author of the best-selling book, [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits).
+I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% everyday for one year, you will end up 3800% better than where you started off a year ago. I first read this from James Clear, the author of the best-selling book, [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits).
 
 <picture>
   <img src="/assets/marginal-gains.jpg" height="85%" width="85%" class="img dark-mode-opacity">
@@ -130,7 +130,7 @@ I subscribe to the notion of the **1% Rule**: if you improve yourself by 1% ever
   </figure>
 </picture>
 
-Of course, in reality, the metric to quantify your productivity is slightly more unclear, and you might not exactly be 3.8x better. But the 1% Rule proves how powerful compound interest can be and how it can do wonders to your life.
+Of course, in reality, the metric to quantify your productivity is slightly more unclear, and you might not exactly be 38x better. But the 1% Rule proves how powerful compound interest can be and how it can do wonders to your life.
 
 I follow a simple system of quantifying my output to track my productivity. I have a section called <span class="green-padding">⏳Timeline of My Life</span>. In there, I record down the notable things that I have learnt or accomplished that day, or when I have reached a certain milestone in my life.
 

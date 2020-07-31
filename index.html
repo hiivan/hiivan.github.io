@@ -2,10 +2,11 @@
 layout: default
 title: Home
 ---
-
+<h1>Recent Posts</h1>
+<br>
 {% for post in site.posts %}
     <a class="h2" href="{{ post.url }}">{{ post.title}}</a>
     <br><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-    <br>
+    <br>{{ number_of_words }}
     <br>
 {% endfor %}

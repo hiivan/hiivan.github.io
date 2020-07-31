@@ -16,7 +16,8 @@
   position: relative;
   text-align: center;
   padding-right: 12px;
-  
+  font-weight: bold;
+
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
@@ -26,7 +27,7 @@
   }
 
   small {
-    font-size: 75%;
+    font-size: 80%;
     font-weight: 400;
     opacity: .5;
   }
@@ -37,11 +38,11 @@
   font-size: 100%;
   font-weight: 500;
   color: $body-color;
-  
+
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
-  
+
 ul#navigation-list {
   list-style: none;
   margin: 0;

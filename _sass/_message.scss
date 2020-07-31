@@ -27,13 +27,13 @@
   padding: 12px;
   color: #fff;
   background-color: $message-blue;
-  border-left: .3rem solid #2bc2ff;
-  border-radius: 10px;
+  border-left: .4rem solid #2bc2ff;
+  border-radius: 30px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
     background-color: #673AB7;
-    border-left: .3rem solid #9575CD;
+    border-left: .4rem solid #9575CD;
   }
 }
 

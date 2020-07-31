@@ -6,6 +6,17 @@
   }
 }
 
+img.circle {
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+  box-shadow: 0 0 10px #707880;
+  @media (prefers-color-scheme: dark) {
+      box-shadow: none;
+  }
+}
+
 .dark-mode-opacity {
   @media (prefers-color-scheme: dark) {
       opacity: 0.9;

@@ -1,7 +1,7 @@
 # Introduction
-This is my personal website, a place for me to learn with my viewers.
+This is my personal blog, a place for me to learn with my viewers.
 
-Inspired by [Noir](https://github.com/essentialenemy/noir/), a theme for Jekyll created by [Victor Johnson](https://essentialenemy.com/).
+This static website is built by me using [Jekyll](https://jekyllrb.com/), hosted on Github pages.
 
 # Website link
 https://www.ivan-ang.com 

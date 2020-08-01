@@ -39,14 +39,23 @@ h2 {
 a.h2 {
   margin-top: 1.5rem;
   font-size: 1.35rem;
-  color: #F56624;
   font-weight: 600;
+  color: $light;
 
   &:hover,
   &:focus {
+	  color: $light;
     text-decoration: underline;
-    color: #F56624;
   }
+
+	@media (prefers-color-scheme: dark) {
+    color: $dark;
+    &:hover,
+    &:focus {
+  	  color: $dark;
+      text-decoration: underline;
+    }
+    }
 }
 
 h3 {

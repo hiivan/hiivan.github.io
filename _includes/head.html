@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--<meta property="og:title" content="ivanOS" /> -->
   <meta property="og:image" content="/assets/i_logo2.png" />
-  <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+
 
   <title>
     {% if page.title == "Home" %}
@@ -12,10 +12,10 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
+  {% seo title=false %}
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/assets/i_logo2.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/i_logo2.png">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
-  {% seo title=false %}
+  <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 </head>

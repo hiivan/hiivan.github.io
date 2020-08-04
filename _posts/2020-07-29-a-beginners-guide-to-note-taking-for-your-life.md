@@ -7,9 +7,11 @@ tags: [note-taking]
 last_modified_at:
 ---
 
-Note-taking has become a huge part of my life. It has helped me retain information better, and ensures that I am constantly learning everyday.
+Note-taking has become a huge part of my life. It helped to mitigate two problems I face perpetually everyday:
+1. To **retain information** that otherwise would fade away with time.
+2. **Organize my thoughts**. I constantly feel overwhelmed by having too many things going on in my mind at the same time, and that can get very distracting.
 
-Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes journaling (though also highly applicable to note-taking in general) in this twitter thread:
+Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes note-taking (actually it's journaling, but it really applies to both) in this twitter thread:
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">So in a way journaling for yourself is a radical act! It’s an act of self-ownership, self-education. It’s about setting your own curriculum, defining your own worldview, deciding for yourself what is important. I don’t think this should be outsourced to others, but that’s my POV</p>&mdash; youtube.com/visakanv (❤️ if you subscribe!) (@visakanv) <a href="https://twitter.com/visakanv/status/1087436197410959361?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

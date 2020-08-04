@@ -81,11 +81,11 @@ You create categories, and within each categories are sub-categories and within 
 
 Roam Research is a note-taking application for **networked thought**.
 
-It seeks to make note-taking function more like how a brain processes information. Whenever you have an idea, your brain will create multiple associations to it. Thinking of linked concepts will help you recall that idea.
+The way you take notes on Roam is similar to how a brain would processes information. Usually, when you are learning a new concept, your brain will immediately try to create mental connections of other concepts or events related to it. As you consume more information, more and more ideas become intertwined together to form an entire large network of thought.
 
-Likewise, Roam seeks to associate notes with other notes via *bi-directional linking*, making it easier to connect your ideas. It becomes your second brain. Your notes do not just sit there idly like other note apps. Roam encourages serendipity and *Spaced Repetition* by letting you to continuously revisit past notes.
+Likewise, Roam seeks to associate notes with other notes via *bi-directional linking*, making it easier to connect your ideas. It becomes a proverbial secondary brain —— a place storing all your written thoughts. What's more, your notes do not just sit there idly like other note apps. Roam encourages serendipity and *Spaced Repetition* by letting you continuously revisit past notes whenever you call it back with back-linking.
 
-For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github).
+For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github :).
 
 ### Pricing
 

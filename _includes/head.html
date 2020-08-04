@@ -2,9 +2,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--<meta property="og:title" content="ivanOS" /> -->
-  <meta property="og:image" content="/assets/i_logo2.png" />
-
-
+  {% if page.image %}
+     <meta property="og:image" content="{{page.image}}" />
+     <meta name="twitter:image" content="{{page.image}}" />
+   {% else %}
+     <meta property="og:image" content="/assets/profile-pic-illustrated.jpg" />
+     <meta name="twitter:image" content="/assets/profile-pic-illustrated.jpg" />
+   {% endif %}
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}

@@ -5,6 +5,7 @@ date: 2020-07-29
 categories: Posts📌
 tags: [note-taking]
 last_modified_at:
+image: /assets/my-roam-graph.png
 ---
 
 Note-taking has become a huge part of my life. It helped to mitigate two problems I face perpetually everyday:

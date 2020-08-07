@@ -11,12 +11,13 @@
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: $body-color;
   position: relative;
   text-align: center;
   padding-right: 12px;
   font-weight: bold;
+  font-size: 1.4rem;
 
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
@@ -27,7 +28,7 @@
   }
 
   small {
-    font-size: 80%;
+    font-size: 0.95rem;
     font-weight: 400;
     opacity: .5;
   }

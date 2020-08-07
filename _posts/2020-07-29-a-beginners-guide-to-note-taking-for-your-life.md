@@ -88,7 +88,7 @@ The way you take notes on Roam is similar to how a brain would processes informa
 
 Likewise, Roam seeks to associate notes with other notes via *bi-directional linking*, making it easier to connect your ideas. It becomes a proverbial secondary brain —— a place storing all your written thoughts. What's more, your notes do not just sit there idly like other note apps. Roam encourages serendipity and *Spaced Repetition* by letting you continuously revisit past notes whenever you call it back with back-linking.
 
-For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github :).
+For those tinkerers out there, you can even create your own custom CSS and JavaScript themes! (Shameless plug: check out my theme [CyanoRoam](https://github.com/hiivan/CyanoRoam) on Github :)
 
 ### Pricing
 

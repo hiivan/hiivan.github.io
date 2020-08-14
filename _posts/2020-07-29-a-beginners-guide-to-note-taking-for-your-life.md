@@ -52,7 +52,7 @@ On the never-ending quest for maximum productivity, I chanced upon an [article b
 
 > Without a little extra care to preserve these valuable resources, our precious knowledge remains siloed and scattered across dozens of different locations.
 
-Mind = Blown 🤯. This perpetual problem that has always bothered my mind (but could never find the words for it) was perfectly articulated by this excerpt.
+Mind = Blown 🤯. This excerpt perfectly articulated a perpetual problem that has been bothering my mind for ages, but one that I could never find the words for.
 
 The article then introduced a solution: [Building A Second Brain](https://www.buildingasecondbrain.com/). BASB is a methodology for "preserving your ideas, and turning them into reality". The article explains it like this:
 

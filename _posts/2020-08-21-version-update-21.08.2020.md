@@ -35,9 +35,9 @@ I recently discovered [Mermaid](https://mermaid-js.github.io/mermaid/#/), an ama
 You can do things like flowcharts, piecharts, illustrated timelines and even Git graphs! 
 
 <picture>
-  <img src="/assets/mermaid-graph.png">
+  <img src="/assets/mermaid-graph.png" class="img dark-mode-opacity">
   <figure>
-    <figcaption><b>Source:</b> <a href="https://mermaid-js.github.io/mermaid/#/">https://mermaid-js.github.io/mermaid/#/</a></figcaption>
+    <figcaption>Example of a sequence diagram with Mermaid. <b>Source:</b> <a href="https://mermaid-js.github.io/mermaid/#/">https://mermaid-js.github.io/mermaid/#/</a></figcaption>
   </figure>
 </picture>
 

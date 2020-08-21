@@ -35,7 +35,7 @@ I recently discovered [Mermaid](https://mermaid-js.github.io/mermaid/#/), an ama
 You can do things like flowcharts, piecharts, illustrated timelines and even Git graphs! 
 
 <picture>
-  <img src="/assets/mermaid-graph.png" class="img dark-mode-opacity">
+  <img src="/assets/mermaid-graph.png">
   <figure>
     <figcaption><b>Source:</b> <a href="https://mermaid-js.github.io/mermaid/#/">https://mermaid-js.github.io/mermaid/#/</a></figcaption>
   </figure>
@@ -51,7 +51,7 @@ Although I don't see much use of it for me now, I'll be sure to explore and play
 
 [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra), the sequel to *Avatar: The Last Airbender*, is finally here on Netflix US, and I am so so happy!
 
-<img src="/assets/lok.jpg" height="75%" width="75%" class="img dark-mode-opacity">
+<img src="/assets/lok.jpg" class="img dark-mode-opacity">
 
 I remember watching this series online with my brother back in like 2014. I was so afraid of the villains back then. They had stronger, more realistic motives compared to the likes of Firelord Ozai in ATLA. 
 

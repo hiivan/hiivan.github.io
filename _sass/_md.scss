@@ -1,3 +1,11 @@
+blockquote.twitter-tweet-rendered {
+  --tweetzoom: 0.80;
+  max-width: 300px !important;
+  @media (prefers-color-scheme: dark) {
+      data-theme: dark;
+  }
+}
+
 .img {
   border-radius: 20px;
   box-shadow: 0 4px 30px rgba(0,0,0,.4);

@@ -10,7 +10,7 @@ last_modified_at:
 Welcome to the ivanOS <u>⚙️update changelog</u>. This is where I post updates on my life, such as what I find interesting and what I'm working on recently.
 
 ---
-**📚Book article recommendation**
+**📚Book summary recommendation**
 
 The main thesis of [Range: Why Generalists Triumph In A Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range) is that you should become generalist rather than a specialist in today's modern world. What's good about [this summary](https://commoncog.com/blog/range-book-summary/) is that it cuts away the sloppy arguments and and distracting anectdotes, stripping them down to two main things (quoting the article):
 

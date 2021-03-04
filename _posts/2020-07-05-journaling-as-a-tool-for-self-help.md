@@ -5,7 +5,6 @@ date: 2020-07-05
 categories: Posts📌
 tags: [journaling]
 last_modified_at:
-image: /assets/journaling-stock.jpg
 ---
 
 More often that not, we would read some blog post on some self-help advice, get really inspired, and then forget about it the next day. So why do some advice stick while others do not?

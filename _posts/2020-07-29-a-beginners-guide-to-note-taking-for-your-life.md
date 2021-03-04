@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Beginner's Guide to Note-Taking (for your Life).
+title: A new way of note-taking.
 date: 2020-07-29
 categories: Posts📌
 tags: [note-taking]
@@ -18,11 +18,11 @@ Twitter user [@visakanv](https://twitter.com/visakanv) beautifully describes not
 
 ## Why I Take Notes.
 
-Oftentimes, when people think of taking notes, they associate it to *studying for an exam*.
+Oftentimes, when people think of taking notes, they associate it to studying for an exam.
 
 But the fact is, we are constantly learning new things everyday. So if you are all about living life to the fullest and improving yourself as a person, then why would you not transfer this concept of note-taking to your own personal life?
 
-One of the best thing *writing* things down can do for you is to __sharpen your thinking__. Sitting down and putting the work to synthesizing your thoughts can help to produce better quality ideas. If I find myself having an abstract thought in my head that it is hard to express in words, penning them down can help to solidify and refine the idea.
+One of the best thing writing can do for you is to __sharpen your thinking__. Sitting down and putting the work to synthesizing your thoughts can help to produce better quality ideas. If I find myself having an abstract thought in my head that it is hard to express in words, penning them down can help to solidify and refine the idea.
 
 In the rest of the article, I will be going through my note-taking journey, and the various techniques & concepts I use to make my note-taking more effective.
 
@@ -30,14 +30,14 @@ In the rest of the article, I will be going through my note-taking journey, and 
 
 When I was a student in junior college studying for 'A' Levels, the content we were learning were becoming more and more complex. So I started searching up study techniques to optimize my learning.
 
-I came across [Ali Abdaal's YouTube videos](https://youtu.be/ukLnPbIffxE) on _Active Recall_ and _Spaced Repetition_, and these techniques stuck with me till this day. These were legitimate, scientifically backed<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> advice, in contrast to the plethora of "*Top 101 Study Tips*" listicles online that sounds good but doesn't work.
+I came across [Ali Abdaal's YouTube videos](https://youtu.be/ukLnPbIffxE) on _Active Recall_ and _Spaced Repetition_, and these techniques stuck with me till this day. These were legitimate, scientifically backed<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> advice, in contrast to the plethora of "Top 101 Study Tips" listicles online that sounds good but doesn't work.
 
 (Spoiler alert: Active Recall trumps other study techniques like rereading, highlighting and blindly writing notes, in terms of examination performance.)
 
 <p class="definition">
-  <strong>Active Recall</strong><sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>: <em>This involves retrieving information from your brain after learning something, typically through testing yourself. The act of recalling strengthens your ability to retain your information and solidifies the connections in our brain between different concepts.</em>
+  <strong>Active Recall</strong><sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>: This involves retrieving information from your brain after learning something, typically through testing yourself. The act of recalling strengthens your ability to retain your information and solidifies the connections in our brain between different concepts.
 
-  <br><strong>Spaced Repetition</strong><sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>: <em>The act of reviewing materials at spaced intervals. This is effective in memory retention and countering the forgetting curve.</em>
+  <br><strong>Spaced Repetition</strong><sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>: The act of reviewing materials at spaced intervals. This is effective in memory retention and countering the forgetting curve.
 </p>
 
 If you ever want to learn something effectively, it is key to utilize both techniques to maximize your retention rate.

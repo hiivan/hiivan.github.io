@@ -53,7 +53,7 @@ Investors purchase debt issued by the borrower (typically corporate or governmen
 
 Bond prices are inversely correlated with interest rates: when rates go up, bond prices fall and vice-versa.
 
-<div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox" checked> <label for="collapsible" class="lbl-toggle">Bond Investments in Singapore</label><div class="collapsible-content"><div class="content-inner">
+<div class="wrap-collapsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Bond Investments in Singapore</label><div class="collapsible-content"><div class="content-inner">
 	<p>Singapore Saving Bonds (SSB)</p>
 	<ul>
 	<li><a href="https://www.sgx.com/securities/equities/A35">ABF Singapore Bond Index Fund (A35)</a> – Tracks a basket of high-quality bonds issued primarily by the Singapore government and quasi-Singapore government entities.</li>

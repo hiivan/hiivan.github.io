@@ -199,6 +199,9 @@ input[type='checkbox'] {
   cursor: pointer; 
   border-radius: 7px; 
   transition: all 0.25s ease-out;
+@media (prefers-color-scheme: dark) {
+    background-color: #7E57C2;
+  }
 } 
 
 .lbl-toggle:hover {
@@ -241,4 +244,7 @@ input[type='checkbox'] {
   border-bottom-left-radius: 7px; 
   border-bottom-right-radius: 7px; 
   padding: .5rem 1rem; 
+@media (prefers-color-scheme: dark) {
+    background: #252525;
+  }
 } 

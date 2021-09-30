@@ -49,7 +49,9 @@ They tend to have lower risk compared to growth stocks (companies whose revenues
 
 ## 🤝Bonds
 
-Investors purchase debt issued by the borrower (typically corporate or governmental), where the debt is securitized as a tradeable asset. In the case of government bonds, you are basically borrowing money from the government with the expectation that they will repay you the principal amount with interest at a later date. 
+Investors purchase debt issued by the borrower (typically corporate or governmental), where the debt is securitized as a tradeable asset. In the case of government bonds, you are basically lending money to the government with the expectation that they will repay you the principal amount with interest at a later date. 
+
+The returns typically come in the form of a set level of interest at regular periods, known as a _coupon_. This makes bonds a fixed-income asset. Once the bond expires, you'll get back to your original investment. The day on which you get your original investment back is called the _maturity date_. Different bonds will come with different maturity dates.
 
 Bond prices are inversely correlated with interest rates: when rates go up, bond prices fall and vice-versa.
 

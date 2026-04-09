@@ -7,6 +7,6 @@ title: Home
 {% for post in site.posts %}
     <a class="h2" href="{{ post.url }}">{{ post.title}}</a>
     <br><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-    <br>{{ number_of_words }}
+    <br>{{ post.content | number_of_words }} words
     <br>
 {% endfor %}

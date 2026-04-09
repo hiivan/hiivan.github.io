@@ -26,7 +26,7 @@ layout: default
   {%- endif -%}
   </time>{% if page.link %}<span class="external-link">External Link</span>{% endif %}
 
-<word class="word-count">
+<span class="word-count">
   {% capture words %}
     {{ page.content | strip_html | number_of_words | minus: 150 }}
   {% endcapture %}
@@ -40,7 +40,7 @@ layout: default
   {% unless words contains "-" %}
     {{ words | plus: 150 | divided_by: 180 | append: " min read" }}
     {% endunless %}
-</word>
+</span>
 
   {{ content | smartify }}
 

@@ -1,0 +1,305 @@
+// =============================================================
+// Dark Mode Toggle Button
+// =============================================================
+
+.dark-mode-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 0 0 6px;
+  font-size: 1em;
+  color: inherit;
+  opacity: 0.55;
+  transition: opacity 0.2s ease, transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+  vertical-align: middle;
+  line-height: 1;
+
+  &:hover {
+    opacity: 1;
+    transform: rotate(18deg) scale(1.2);
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  .toggle-icon {
+    display: inline-block;
+    font-size: 1em;
+    font-style: normal;
+    pointer-events: none;
+  }
+}
+
+// Smooth transitions on theme switch
+body,
+a,
+.masthead-title,
+.navigation,
+h1, h2, h3, h4, h5, h6,
+hr,
+abbr,
+blockquote,
+mark,
+table, td, th,
+.highlighter-rouge,
+.post-title, .post-title a, .page-title,
+.post-date, .word-count,
+.permalink, .external-link,
+.tag-list,
+.related,
+.message,
+.magicbox,
+.pagination-item,
+.example,
+.definition,
+.lbl-toggle,
+.collapsible-content .content-inner {
+  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
+}
+
+// =============================================================
+// Force DARK mode (overrides OS light preference)
+// =============================================================
+
+html[data-theme="dark"] {
+
+  body {
+    color: $body-color-dark;
+    background-color: $body-bg-dark;
+  }
+
+  a {
+    color: $dark;
+    &:hover, &:focus { color: $dark; }
+  }
+
+  a.h2 {
+    color: $dark;
+    &:hover, &:focus { color: $dark; }
+  }
+
+  h1, h3, h4, h5, h6 { color: #d0f6db; }
+
+  h2::before, h4::before, h5::before, h6::before { color: #d0f6db; }
+
+  .masthead-title { color: $body-color-dark; }
+
+  .navigation { color: $body-color-dark; }
+
+  hr {
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+  }
+
+  abbr { color: $body-color-dark; }
+
+  span.link-arrow { color: $dark; }
+
+  blockquote { border-left: 3px solid #333333; }
+
+  mark {
+    background: #0fb47c;
+    color: $body-color-dark;
+  }
+
+  a[href^="#fn:"] {
+    color: $dark;
+    background: #2c2c2c;
+    border: 1px solid #2c2c2c;
+  }
+
+  .footnotes :target {
+    background: #2c2c2c;
+    border: solid 1px $dark;
+  }
+
+  .highlighter-rouge {
+    background-color: #212c2d;
+    color: $code-dark;
+  }
+
+  figure.highlight pre, div.highlight pre {
+    border: 1px solid $code-dark;
+
+    code[data-lang]::before {
+      border: 1px solid $code-dark;
+      color: $code-dark;
+    }
+  }
+
+  table, td, th { border: 1px solid #555555; }
+
+  tbody tr:nth-child(odd) td,
+  tbody tr:nth-child(odd) th { background-color: #2d2d2d; }
+
+  .page-title, .post-title, .post-title a { color: $body-color-dark; }
+
+  .post-date, .word-count { color: $body-color-dark; }
+
+  .permalink, .external-link { color: $body-color-dark; }
+
+  .tag-list { color: $code-dark; }
+
+  .related {
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+  }
+
+  .related-posts li a:hover { color: $dark; }
+
+  .message {
+    background-color: #282828;
+    border-left: .3rem solid #595959;
+  }
+
+  .magicbox {
+    background-color: #673AB7;
+    border-left: .4rem solid #9575CD;
+  }
+
+  .pagination-item { border: solid #111111; }
+
+  a.pagination-item:hover { background-color: #1e1e1e; }
+
+  .img { box-shadow: none; }
+
+  img.circle { box-shadow: none; }
+
+  .example { background-color: #7E57C2; }
+
+  .definition { background-color: #353535; }
+
+  .lbl-toggle { background-color: #7E57C2; }
+
+  .collapsible-content .content-inner { background: #252525; }
+
+  hr.break { background: WhiteSmoke; }
+
+  .dark-mode-opacity { opacity: 0.9; }
+
+  .dark-mode-invert { filter: invert(1); }
+}
+
+// =============================================================
+// Force LIGHT mode (overrides OS dark preference)
+// =============================================================
+
+html[data-theme="light"] {
+
+  body {
+    color: $body-color;
+    background-color: $body-bg;
+  }
+
+  a {
+    color: $light;
+    &:hover, &:focus { color: $light; }
+  }
+
+  a.h2 {
+    color: $light;
+    &:hover, &:focus { color: $light; }
+  }
+
+  h1, h3, h4, h5, h6 { color: #55555c; }
+
+  h2::before, h4::before, h5::before, h6::before { color: #55555c; }
+
+  .masthead-title { color: $body-color; }
+
+  .navigation { color: $body-color; }
+
+  hr {
+    border-top: 1px solid #d4d4d4;
+    border-bottom: 1px solid #d4d4d4;
+  }
+
+  abbr { color: $body-color; }
+
+  span.link-arrow { color: $light; }
+
+  blockquote { border-left: 3px solid #d4d4d4; }
+
+  mark {
+    background: #cefce8;
+    color: $body-color;
+  }
+
+  a[href^="#fn:"] {
+    color: $light;
+    background: #eee;
+    border: 1px solid #eee;
+  }
+
+  .footnotes :target {
+    background: #eee;
+    border: solid 1px $light;
+  }
+
+  .highlighter-rouge {
+    background-color: #e0e0e0;
+    color: $code-light;
+  }
+
+  figure.highlight pre, div.highlight pre {
+    border: 1px solid $code-light;
+
+    code[data-lang]::before {
+      border: 1px solid $code-light;
+      color: $code-light;
+    }
+  }
+
+  table, td, th { border: 1px solid #d4d4d4; }
+
+  tbody tr:nth-child(odd) td,
+  tbody tr:nth-child(odd) th { background-color: #eee; }
+
+  .page-title, .post-title, .post-title a { color: $body-color; }
+
+  .post-date, .word-count { color: grey; }
+
+  .permalink, .external-link { color: $body-color; }
+
+  .tag-list { color: $body-color; }
+
+  .related {
+    border-top: 1px solid #d4d4d4;
+    border-bottom: none;
+  }
+
+  .related-posts li a:hover { color: $light; }
+
+  .message {
+    background-color: #454545;
+    border-left: .3rem solid #bebebe;
+  }
+
+  .magicbox {
+    background-color: $message-blue;
+    border-left: .4rem solid #2bc2ff;
+  }
+
+  .pagination-item { border: solid #eee; }
+
+  a.pagination-item:hover { background-color: #eee; }
+
+  .img { box-shadow: 0 4px 30px rgba(0,0,0,.4); }
+
+  img.circle { box-shadow: 0 0 10px #707880; }
+
+  .example { background-color: #DEF4FB; }
+
+  .definition { background-color: #E3E3E3; }
+
+  .lbl-toggle { background: rgb(12, 131, 225); }
+
+  .collapsible-content .content-inner { background: #E3E3E3; }
+
+  hr.break { background: LightGrey; }
+
+  .dark-mode-opacity { opacity: 1; }
+
+  .dark-mode-invert { filter: none; }
+}

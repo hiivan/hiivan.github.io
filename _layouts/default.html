@@ -7,6 +7,14 @@ layout: compress
 
   {% include head.html %}
 
+  <!-- Prevent flash of wrong theme -->
+  <script>
+    (function() {
+      var t = localStorage.getItem('theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
   <body>
 
     <style>
@@ -42,6 +50,7 @@ layout: compress
     <li><a href="/categories/">🗂️categories</a></li>
     <li><a href="https://crypto.ivan-ang.com" target="_blank">blockchain</a></li>
     <li><a href="/about/">👦🏻about</a></li>
+    <li><button id="dark-mode-toggle" class="dark-mode-toggle" onclick="toggleTheme()" title="Toggle dark mode" aria-label="Toggle dark mode"><span class="toggle-icon">☀</span></button></li>
 		</ul>
 
   	</div>
@@ -65,9 +74,37 @@ layout: compress
       </footer>
     </div>
 
-    {% if site.ga_analytics %}
     <script type="module" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule="" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.js"></script>
+    <script>
+      function getEffectiveTheme() {
+        var stored = localStorage.getItem('theme');
+        if (stored) return stored;
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function updateToggleIcon() {
+        var btn = document.getElementById('dark-mode-toggle');
+        if (!btn) return;
+        var isDark = getEffectiveTheme() === 'dark';
+        btn.querySelector('.toggle-icon').textContent = isDark ? '☀' : '☾';
+        btn.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+        document.querySelectorAll('.theme-img').forEach(function(img) {
+          img.src = isDark ? img.dataset.srcDark : img.dataset.srcLight;
+        });
+      }
+
+      function toggleTheme() {
+        var current = getEffectiveTheme();
+        var next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        updateToggleIcon();
+      }
+
+      document.addEventListener('DOMContentLoaded', updateToggleIcon);
+    </script>
+    {% if site.ga_analytics %}
     <script>
        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

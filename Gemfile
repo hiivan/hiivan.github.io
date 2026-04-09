@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
+gem "addressable", ">= 2.8.1"
 gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"

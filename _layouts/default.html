@@ -11,7 +11,10 @@ layout: compress
   <script>
     (function() {
       var t = localStorage.getItem('theme');
-      if (t) document.documentElement.setAttribute('data-theme', t);
+      if (t) {
+        document.documentElement.setAttribute('data-theme', t);
+        document.documentElement.style.colorScheme = t;
+      }
     })();
   </script>
 
@@ -98,6 +101,7 @@ layout: compress
         var current = getEffectiveTheme();
         var next = current === 'dark' ? 'light' : 'dark';
         document.documentElement.setAttribute('data-theme', next);
+        document.documentElement.style.colorScheme = next;
         localStorage.setItem('theme', next);
         updateToggleIcon();
       }

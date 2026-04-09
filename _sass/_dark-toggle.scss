@@ -4,10 +4,12 @@
 
 .dark-mode-toggle {
   -webkit-appearance: none;
+  -moz-appearance: none;
   appearance: none;
-  background: transparent;
-  background-color: transparent;
-  border: none;
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
   cursor: pointer;
   padding: 0 0 0 6px;
   font-size: 1em;

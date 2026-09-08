@@ -35,7 +35,7 @@ layout: default
   {% endunless %}
 
   {% capture words %}
-    {{ page.content | number_of_words | minus: 150 }}
+    {{ page.content | strip_html | number_of_words | minus: 150 }}
   {% endcapture %}
   {% unless words contains "-" %}
     {{ words | plus: 150 | divided_by: 180 | append: " min read" }}

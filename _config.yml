@@ -2,7 +2,6 @@
 title: ivanOS
 tagline: my digital garden — a place for my ideas to grow and blossom.
 url: https://www.ivan-ang.com
-paginate: 1
 baseurl: ""
 permalink: :title/
 
@@ -12,9 +11,7 @@ kramdown:
 # Gems
 plugins:
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-target-blank
   - jekyll-feed
 
 # Optimize Jekyll
@@ -26,15 +23,11 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - vendor
 
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Options
-
-# Google Analytics tracking
-ga_analytics: UA-171125265-1
 
 # Specify the author for blog posts
 author:

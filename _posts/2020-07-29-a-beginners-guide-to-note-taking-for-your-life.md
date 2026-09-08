@@ -164,10 +164,10 @@ Soon enough, all your high-value ideas will be right at your fingertips, ready t
 
 **Additional resources:**
 
-- Article: [The Zettelkasten Method](https://zettelkasten.de/posts/overview/){:target="_blank"}
-- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide){:target="_blank"}
-- Book: [How to Take Smart Notes by Sönke Ahrens](https://www.goodreads.com/id/book/show/34507927-how-to-take-smart-notes){:target="_blank"}
-- Tool for Active Recall & Spaced Repetition: [Anki Flashcards](https://apps.ankiweb.net/){:target="_blank"}
+- Article: [The Zettelkasten Method](https://zettelkasten.de/posts/overview/){:target="_blank" rel="noopener noreferrer"}
+- Article: [Your Beginner's Guide to Roam Research](https://www.keepproductive.com/blog/roam-research-guide){:target="_blank" rel="noopener noreferrer"}
+- Book: [How to Take Smart Notes by Sönke Ahrens](https://www.goodreads.com/id/book/show/34507927-how-to-take-smart-notes){:target="_blank" rel="noopener noreferrer"}
+- Tool for Active Recall & Spaced Repetition: [Anki Flashcards](https://apps.ankiweb.net/){:target="_blank" rel="noopener noreferrer"}
 
 <div class="footnotes"> <ol>
 	<li id="fn:1"> <p>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques. <em>Psychological Science in the Public Interest,</em> <em>14</em>(1), 4-58. doi:10.1177/1529100612453266 <a href="#fnref:1" class="reversefootnote">⤴</a></p> </li>
